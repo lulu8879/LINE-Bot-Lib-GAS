@@ -96,6 +96,7 @@ This lib grouping commands reference by [LINE Messaging API reference](https://d
 
 ## Source and Reference
 * https://developers.line.biz/en/reference/messaging-api/
+* https://github.com/line/line-bot-sdk-nodejs/
 * https://github.com/kobanyan/line-bot-sdk-gas/
 
 ## Note
