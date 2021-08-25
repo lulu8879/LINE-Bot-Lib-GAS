@@ -101,4 +101,4 @@ This lib grouping commands reference by [LINE Messaging API reference](https://d
 ## Note
 * Not all method above is tested, DWYOR!
 * Feel free to use, fork, open issues, and/or pull request
-
+* Always choose latest version when add this library
