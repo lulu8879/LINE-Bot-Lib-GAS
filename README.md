@@ -94,7 +94,7 @@ This lib grouping commands reference by [LINE Messaging API reference](https://d
 * leave(roomId)
 
 
-## Source
+## Source and Reference
 * https://developers.line.biz/en/reference/messaging-api/
 * https://github.com/kobanyan/line-bot-sdk-gas/
 
